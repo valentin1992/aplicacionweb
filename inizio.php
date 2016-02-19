@@ -715,7 +715,7 @@ echo "<form accept-charset=\"utf-8\" method=\"post\" action=\"inizio.php\"><div>
 if (!$numconnessione and C_MOSTRA_COPYRIGHT != "NO") {
 echo "</td></tr>
 <tr><td style=\"background-color: #ffffff; height: 57px; color: #000000; font-size: 11px; text-align: center; vertical-align: bottom;\">
- <a style=\"color: #000000;\" href=\"./mostra_sorgente.php\">engine code</a> 
+ <a style=\"color: #000000;\" href=\"./mostra_sorgente.php\"></a> 
 <a style=\"color: #000000;\" \"></a> 
 </td></tr></table>";
 } # fine if (!$numconnessione and C_MOSTRA_COPYRIGHT != "NO")
